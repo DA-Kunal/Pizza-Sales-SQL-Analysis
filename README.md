@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales SQL Data Analytics Project
 
-A comprehensive data analytics project examining a pizza restaurant's sales operations. This project leverages **Advanced SQL** (joins, subqueries, and window functions) in **MySQL** to extract critical business insights, analyze product performance, track revenue trends, and evaluate category-wise distribution.
+A comprehensive data analytics project examining a pizza restaurant's sales operations. This project leverages **Advanced SQL** (joins, subqueries, and window functions) in **MySQL** to extract critical business insights, analyze product performance, track revenue trends, and evaluate category-wise distribution. SQL Solution and answers are shown in PIZZA%20SALES%20Presentation.pdf
 ---
 
 ## 🚀 1. Project Overview
