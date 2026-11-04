@@ -7,7 +7,7 @@ A comprehensive data analytics project examining a pizza restaurant's sales oper
 Understanding customer purchasing habits and operational capacity is vital for restaurant optimization. This project analyzes a transactional dataset comprising orders, product pricing, and category types to answer high-level business questions, optimize inventory stocking, and pinpoint menu revenue drivers.
 
 > **Project Preview Banner:**  
-> ![Pizza Sales Data Title Slide](Title$Page.png) 
+> ![Pizza Sales Data Title Slide](Title%20Page.png) 
 
 ---
 
