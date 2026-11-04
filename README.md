@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales SQL Data Analytics Project
 
-A comprehensive data analytics project examining a pizza restaurant's sales operations. This project leverages **Advanced SQL** (joins, subqueries, and window functions) in **MySQL** to extract critical business insights, analyze product performance, track revenue trends, and evaluate category-wise distribution. SQL Solution and answers are shown in PIZZA%20SALES%20Presentation.pdf
+A comprehensive data analytics project examining a pizza restaurant's sales operations. This project leverages **Advanced SQL** (joins, subqueries, and window functions) in **MySQL** to extract critical business insights, analyze product performance, track revenue trends, and evaluate category-wise distribution. SQL Solution and answers are shown in (-PIZZA SALES Presentation.pdf-)
 ---
 
 ## 🚀 1. Project Overview
@@ -19,7 +19,7 @@ The relational database structure consists of four core tables:
 * **`order_details`**: Acts as a junction table linking specific orders to exact pizza variants and quantities ordered.
 
 > **Database Schema Architecture:**  
-> ![ER Diagram](ER%20diagram.png) *(Replace with your database schema slide image)*
+> ![ER Diagram](ER%20diagram.png)
 
 ---
 
@@ -43,3 +43,11 @@ Here is a breakdown of how key business requirements were solved using SQL queri
   -- Retrieve total orders placed
   SELECT COUNT(*) AS total_order_placed 
   FROM orders;
+
+### Remaining to be viewed from PIZZA SALES Presentation.pdf
+
+--
+
+## 💡 6. Conclusion & Recommendations
+1. **Inventory Focus:** Maintain strict stock levels for chicken toppings and high-demand cheese variants (Classic Deluxe and Thai Chicken) to prevent stockouts during peak operational hours.
+2. **Promotional Bundling:** Leverage high-volume items (Classic Deluxe) as anchor items in combo deals to cross-sell higher-margin specialty items.
