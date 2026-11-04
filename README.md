@@ -19,7 +19,7 @@ The relational database structure consists of four core tables:
 * **`order_details`**: Acts as a junction table linking specific orders to exact pizza variants and quantities ordered.
 
 > **Database Schema Architecture:**  
-> ![ER Diagram](ER$diagram.png) *(Replace with your database schema slide image)*
+> ![ER Diagram](ER%20diagram.png) *(Replace with your database schema slide image)*
 
 ---
 
