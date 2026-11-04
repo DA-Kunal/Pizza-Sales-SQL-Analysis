@@ -7,7 +7,7 @@ A comprehensive data analytics project examining a pizza restaurant's sales oper
 Understanding customer purchasing habits and operational capacity is vital for restaurant optimization. This project analyzes a transactional dataset comprising orders, product pricing, and category types to answer high-level business questions, optimize inventory stocking, and pinpoint menu revenue drivers.
 
 > **Project Preview Banner:**  
-> ![Pizza Sales Data Title Slide](assets/slide_title.png) 
+> ![Pizza Sales Data Title Slide](Title$Page.png) 
 
 ---
 
@@ -19,7 +19,7 @@ The relational database structure consists of four core tables:
 * **`order_details`**: Acts as a junction table linking specific orders to exact pizza variants and quantities ordered.
 
 > **Database Schema Architecture:**  
-> ![ER Diagram](assets/schema_er.png) *(Replace with your database schema slide image)*
+> ![ER Diagram](ER$diagram.png) *(Replace with your database schema slide image)*
 
 ---
 
